@@ -1,6 +1,6 @@
 # Simple C++ Calculator
 
-![Calculator Screenshot]()
+![Calculator Screenshot](assets/md/Cpp_Calc_photo.png)
 
 A simple command-line calculator built with C++. This was my first project after learning the basics of C++ in August 2024.
 
